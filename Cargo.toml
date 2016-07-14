@@ -1,0 +1,11 @@
+[package]
+name = "stuff"
+version = "0.1.0"
+authors = ["Thom Chiovoloni <chiovolonit@gmail.com>"]
+
+[dependencies]
+glium = "*"
+rand = "0.3"
+more-asserts = "*"
+rusttype = "0.2"
+time = "*"
